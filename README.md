@@ -6,7 +6,7 @@ This project, titled "Smart Traffic System," is an intelligent traffic managemen
 
 It uses a popular computer vision model called **YOLO (You Only Look Once)** to analyze images from different directions of a traffic junction (North, East, South, and West). By detecting and counting the number of vehicles (cars, motorcycles, buses, trucks) in each direction, the system can intelligently allocate more green-light time to the lanes with heavier traffic. This adaptive approach aims to optimize traffic flow, reduce waiting times, lower fuel consumption, and improve the overall efficiency of the intersection.
 
-The Python script you've provided is the core implementation of this logic. It processes static images for each direction to simulate this real-time decision-making process. 
+The Python script i have provided is the core implementation of this logic. It processes static images for each direction to simulate this real-time decision-making process. 
 
 ### How the Code Works
 
